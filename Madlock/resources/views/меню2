@@ -1,0 +1,694 @@
+
+<!-- Header -->
+<div class="header classic" itemprop="WPHeader">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="logo">
+					<a href="https://www.bigbangthemes.net/Wordie_WP">
+						Wordie											</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!--/ Header -->
+
+<!-- Navigation -->
+<div class="nav-container classic">
+	<a href="#" id="menuButtonClassic" class="menu-button"><i></i></a>
+
+	<!-- Dropdown Menu -->
+	<ul class="nav-menu clearfix">
+		<li id="menu-item-382" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-382 parent"><a href="#">Home</a></li>
+
+
+<li id="menu-item-619" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-619 parent"><a href="#">Headers</a></li>
+
+
+<li id="menu-item-394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-394 parent"><a href="#">Blog</a>
+<ul class="sub-menu hidden">
+	<li id="menu-item-383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-383 parent"><a href="#">2 Columns</a></li>
+	
+	<li id="menu-item-389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389 parent"><a href="#">3 Columns</a></li>
+
+
+	<li id="menu-item-390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-390 parent"><a href="#">Classic</a></li>
+	
+
+	
+	<li id="menu-item-393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-393 parent"><a href="#">List Style</a></li>
+	
+
+		
+</li>
+	
+<li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-400 parent"><a href="#">Posts</a></li>
+
+
+<li id="menu-item-653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-653"><a href="https://www.bigbangthemes.net/Wordie_WP/category/art/">Category Builder</a></li>
+<li id="menu-item-395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-395 parent"><a href="#">Pages</a></li>
+
+
+</ul>
+	<!--/ Dropdown Menu -->
+
+	<!-- Social Buttons Menu -->
+	<ul class="social-menu widget-social">
+		 
+									 
+					<li class="">
+						<a href="#" class="fa fa-instagram">
+						</a>
+					</li>
+				 
+									 
+					<li class="">
+						<a href="https://www.pinterest.com/BIgBangThemes/" class="fa fa-pinterest">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="#" class="fa fa-vimeo-square">
+						</a>
+					</li>
+				 
+					
+					</ul>
+	<!--/ Social Buttons Menu -->
+</div>
+<!--/ Navigation -->
+<!-- Navigation -->
+<div class="navigation-master clearfix">
+	<div class="nav-controls">
+		<div class="navigation-logo">
+			<a href="https://www.bigbangthemes.net/Wordie_WP">
+				Wordie							</a>
+		</div>
+
+		<ul class="languages"><li><a href="https://www.bigbangthemes.net/Wordie_WP/?lang=es">Es</a></li><li><a href="https://www.bigbangthemes.net/Wordie_WP/">En</a></li></ul>
+
+		<a href="#" id="menuButton" class="menu-button active"><i></i></a>
+	</div>
+
+	<div class="nav-container active" style="width: 607px;">
+		<!-- Dropdown Menu -->
+		<ul class="nav-menu clearfix" style="padding-right: 0px;">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-382 parent"><a href="#">Home</a></li>
+
+
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-619 parent"><a href="#">Headers</a></li>
+
+
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-394 parent"><a href="#">Blog</a>
+<ul class="sub-menu hidden">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-383 parent"><a href="#">2 Columns</a>
+	<ul class="sub-menu fadeOutDownSmall">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-384 parent"><a href="#">Classic</a>
+		<ul class="sub-menu fadeOutDownSmall">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-sidebar-author-intro/">Sidebar Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-sidebar-header/">Sidebar Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-sidebar-header-author-intro/">Sidebar Header Image Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-sidebar/">Standard Sidebar</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-385 parent"><a href="#">Full Width</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-333"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-1/">Standard</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-full-width-author-intro/">Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-335"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-full-width-header/">Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-336"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-full-width-header-author-intro/">Header Image Author Intro</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-386 parent"><a href="#">Sidebar</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-387 parent"><a href="#">Narrow</a>
+			<ul class="sub-menu hidden">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-3-sidebar-author-intro/">Author Intro</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-3-sidebar-header/">Header Image</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-340"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-3-sidebar-header-author-intro/">Header Image Author Intro</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-337"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-3-sidebar/">Standard</a></li>
+			</ul>
+</li>
+			<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-388 parent"><a href="#">Wide</a>
+			<ul class="sub-menu hidden">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-329"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-type-2-sidebar/">Standard</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-fat-sidebar/">Author Intro</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-331"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-fat-full-width/">Header Image</a></li>
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-332"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2-cols-fat-sidebar-header-author-intro/">Header Image Author Intro</a></li>
+			</ul>
+</li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-389 parent"><a href="#">3 Columns</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-3-columns-mixed/">Standard</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-346"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-3-columns-mixed-header/">Header Image</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-390 parent"><a href="#">Classic</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-391 parent"><a href="#">Sidebar</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-sidebar-header/">Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-sidebar-right/">Standard</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-3/">Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-353"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-sidebar-header-author-intro/">Header Image Author Intro</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-392 parent"><a href="#">Full Width</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-2/">Standard</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-full-width-header/">Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-fullwidth-author-intro/">Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-classic-fullwidth-author-intro-header/">Header Image Author Intro</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-393 parent"><a href="#">List Style</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-397 parent"><a href="#">Sidebar</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-357"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-alternate-sidebar/">Alternate</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-alternate-sidebar-header/">Alternate Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-header-sidebar/">Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-363"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-header-sidebar-author-intro/">Header Image Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-sidebar-2/">Standard</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-sidebar-author-intro/">Author Intro</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-399 parent"><a href="#">Full Width</a>
+		<ul class="sub-menu hidden">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-355"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-alternate-full-width/">Alternate</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-alternate-full-width-header/">Alternate Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-359"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-author-intro-full-width/">Author Intro</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://www.bigbangthemes.net/Wordie_WP/blog/">Header Image</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-361"><a href="https://www.bigbangthemes.net/Wordie_WP/blog-list-header-full-width-author-intro/">Standard</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-400 parent"><a href="#">Posts</a>
+<ul class="sub-menu hidden">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-433"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/">Journey</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-407"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/full-width-posts-look-simply-amazing-2/">Header Image</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-409"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/sidebar-posts-with-full-header-featured-image/">Header Image Sidebar</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-404"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/29/using-background-images-to-your-advantage/">Background Image</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-421 parent"><a href="#">Featured</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/">Journey</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/easily-share-your-youtube-playlists/">Playlist</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-427"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/share-your-tweets/">Twitter</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-428"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together-2/">Facebook</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-401"><a href="https://bigbangthemes.net/Wordie_WP/2015/06/06/welcome-to-wordie/">Introduction</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-436 parent"><a href="#">Video</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-402"><a href="https://bigbangthemes.net/Wordie_WP/2015/06/30/youtube-videos-make-things-look-easy/">Youtube</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-403"><a href="https://bigbangthemes.net/Wordie_WP/2015/06/30/you-can-even-use-vimeo/">Vimeo</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-439 parent"><a href="#">Classic</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-405"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/full-width-posts-look-simply-amazing/">Full Width</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-406"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/this-is-just-getting-better-and-better/">Sidebar</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/a-quote-post-that-looks-amazing/">Quote</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-424"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/create-an-external-link-with-a-link-post/">Link</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-408"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/prompt-your-visitors-to-subscribe/">Subscribe</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-414 parent"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/this-is-just-getting-better-and-better-2/">Audio</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/import-soundcloud-music-to-share-your-mood/">Soundcloud</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-419"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/easily-share-your-youtube-playlists/">Playlist</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-426 parent"><a href="#">Gallery</a>
+	<ul class="sub-menu hidden">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-425"><a href="https://bigbangthemes.net/Wordie_WP/2015/08/18/masonry-test/">Masonry</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-445"><a href="https://bigbangthemes.net/Wordie_WP/2015/07/30/galleries-have-never-looked-better-4/">Slider</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-653"><a href="https://www.bigbangthemes.net/Wordie_WP/category/art/">Category Builder</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-395 parent"><a href="#">Pages</a>
+<ul class="sub-menu hidden">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-326"><a href="https://www.bigbangthemes.net/Wordie_WP/sitemap/">Sitemap</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-325"><a href="https://www.bigbangthemes.net/Wordie_WP/about-me/">About Me</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://www.bigbangthemes.net/Wordie_WP/about-me-full-width/">About Me Full Width</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a href="https://bigbangthemes.net/Wordie_WP/2015/06/06/welcowordie/">404 Page</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-571 parent"><a href="#">Contact Us</a>
+<ul class="sub-menu hidden">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-565"><a href="https://www.bigbangthemes.net/Wordie_WP/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="https://www.bigbangthemes.net/Wordie_WP/contact-us-sidebar/">Contact Us Sidebar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-585"><a href="http://themeforest.net/item/wordie-bold-creative-blog-theme/12621697?ref=BigBangThemes">Buy Now</a></li>
+		</ul>
+		<!--/ Dropdown Menu -->
+
+		<!-- Social Buttons Menu -->
+		<ul class="social-menu widget-social" style="padding-right: 0px;">
+			 
+					<li class="">
+						<a href="https://www.facebook.com/BigBangThemes" class="fa fa-facebook">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="#" class="fa fa-instagram">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="https://twitter.com/big_bang_themes" class="fa fa-twitter">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="https://www.pinterest.com/BIgBangThemes/" class="fa fa-pinterest">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="#" class="fa fa-vimeo-square">
+						</a>
+					</li>
+				 
+					<li class="">
+						<a href="#" class="fa fa-google-plus">
+						</a>
+					</li>
+						</ul>
+		<!--/ Social Buttons Menu -->
+	</div>
+</div>
+<!--/ Navigation -->
+
+ 
+				<!-- Header -->
+				<header class="header" itemscope="" itemtype="http://schema.org/WPHeader" style="background-image: url(&quot;https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/08/1418225043143-90858d2301b4.jpg&quot;); height: 979px;"><!--Image 1920x730-->
+					<div class="container-fluid">
+													<div class="row">
+								<div class="col-sm-6 col-sm-offset-3 col-md-4 col-md-offset-4">
+									<div class="logo">
+										<span>
+											Wordie																					</span>
+									</div>
+								</div>
+							</div>
+						
+													<div class="row">
+								<div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+									<h1 class="title"> Bold and <a href="https://bigbangthemes.net/item/wordie-bold-creative-wordpress-blog-theme/" style="text-decoration: none; color: #ffffff;">Creative Blog Theme</a></h1>
+								</div>
+							</div>
+											</div>
+				</header>
+				<!--/ Header -->
+			
+<div class="wordie_page" itemprop="FullPage">
+    <!-- Content -->
+    <section class="content">
+                        <!-- PostList -->
+                <div class="postlist postlist-list postlist-list-alternating">
+                    
+                        <!-- Post -->
+                        <article class="post  clearfix" itemscope="" itemtype="http://schema.org/Article">
+                            <div class="post-image">
+                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/08/18/masonry-test/">
+                                    <img width="955" height="810" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/08/1421091242698-34f6ad7fc088-955x810.jpg" class="attachment-955x810 size-955x810 wp-post-image" alt="" itemprop="image"><!--Image 952x810-->
+                                    <strong class="post-link"><i>Read Article</i></strong>
+                                </a>
+                            </div>
+
+                            <div class="post-content" itemprop="articleBody">
+                                <div class="post-meta ">
+    <span class="post-tags underlined" itemprop="keywords"><a href="https://www.bigbangthemes.net/Wordie_WP/category/art/" rel="category tag">Art</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a></span>
+    <time class="post-date" datetime="August-18-2015T10:18" itemprop="dateCreated">August 18, 2015</time>
+    <a href="https://www.bigbangthemes.net/Wordie_WP/2015/08/18/masonry-test/" class="post-comments">Comments <span itemprop="commentCount">2</span></a>
+</div>                                <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/08/18/masonry-test/" itemprop="name">Masonry Is A Great Alternative To Galleries</a></h3>
+                                <div class="post-subtitle"></div>
+                                <div class="post-description" itemprop="description">
+                                    Galleries have been around for ages in blogs, but Wordie comes forward to improve the functionality and add the possibility to display your images either in a slider or in a masonry style. On top of this, you also have the possibility of opening up the images in a fancybox by clicking on any of                                </div>
+                                <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/08/18/masonry-test/"><span>Continue Reading</span></a>
+                            </div>
+                        </article>
+                        <!--/ Post -->
+                    
+                        <!-- Post -->
+                        <article class="post  clearfix" itemscope="" itemtype="http://schema.org/Article">
+                            <div class="post-image">
+                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/">
+                                    <img width="955" height="810" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/shutterstock_143598043-955x810.jpg" class="attachment-955x810 size-955x810 wp-post-image" alt="" itemprop="image"><!--Image 952x810-->
+                                    <strong class="post-link"><i>Read Article</i></strong>
+                                </a>
+                            </div>
+
+                            <div class="post-content" itemprop="articleBody">
+                                <div class="post-meta ">
+    <span class="post-tags underlined" itemprop="keywords"><a href="https://www.bigbangthemes.net/Wordie_WP/category/art/" rel="category tag">Art</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/photography/" rel="category tag">Photography</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/photography/" rel="category tag">Photography</a></span>
+    <time class="post-date" datetime="July-30-2015T1:21" itemprop="dateCreated">July 30, 2015</time>
+    <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/" class="post-comments">Comments <span itemprop="commentCount">1</span></a>
+</div>                                <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/" itemprop="name">Share Your Next Trip’s Journey</a></h3>
+                                <div class="post-subtitle"></div>
+                                <div class="post-description" itemprop="description">
+                                    
+Thanks to Wordie you can now interact with your readers in ways you never could before. Share your next trip's journey with your beloved readers engaging them into your adventure and getting some much needed help in planning what you should do once you get to your destination.
+Class aptent                                </div>
+                                <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together/"><span>Continue Reading</span></a>
+                            </div>
+                        </article>
+                        <!--/ Post -->
+                    
+                        <!-- Post -->
+                        <article class="post  clearfix" itemscope="" itemtype="http://schema.org/Article">
+                            <div class="post-image">
+                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together-2/">
+                                    <img width="955" height="800" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/Travelling-Without-Moving-955x800.jpg" class="attachment-955x810 size-955x810 wp-post-image" alt="" itemprop="image"><!--Image 952x810-->
+                                    <strong class="post-link"><i>Read Article</i></strong>
+                                </a>
+                            </div>
+
+                            <div class="post-content" itemprop="articleBody">
+                                <div class="post-meta ">
+    <span class="post-tags underlined" itemprop="keywords"><a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/photography/" rel="category tag">Photography</a></span>
+    <time class="post-date" datetime="July-30-2015T1:17" itemprop="dateCreated">July 30, 2015</time>
+    <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together-2/" class="post-comments">Comments <span itemprop="commentCount">0</span></a>
+</div>                                <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together-2/" itemprop="name">Bring Your Facebook Page and Blog Closer Together</a></h3>
+                                <div class="post-subtitle"></div>
+                                <div class="post-description" itemprop="description">
+                                    
+You can now bring your Facebook&nbsp;and your Blog closer together using Wordie. If you want to bring a bit more traffic to your latest tweet, or simply share it with your readers, you can now easily do that by creating aFacebook post and stylishly share your thoughts, or those of others.
+Class                                </div>
+                                <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/bring-your-facebook-page-and-blog-closer-together-2/"><span>Continue Reading</span></a>
+                            </div>
+                        </article>
+                        <!--/ Post -->
+                    
+                        <!-- Post -->
+                        <article class="post post-large-image clearfix" itemscope="" itemtype="http://schema.org/Article">
+                            <div class="post-image">
+                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/share-your-tweets/">
+                                    <img width="1105" height="1115" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/wennington6-1105x1115.jpg" class="attachment-1105x1115 size-1105x1115 wp-post-image" alt="" itemprop="image" srcset="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/wennington6-1105x1115.jpg 1105w, https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/wennington6-150x150.jpg 150w" sizes="(max-width: 1105px) 100vw, 1105px"><!--Image 952x810-->
+                                    <strong class="post-link"><i>Read Article</i></strong>
+                                </a>
+                            </div>
+
+                            <div class="post-content" itemprop="articleBody">
+                                <div class="post-meta ">
+    <span class="post-tags underlined" itemprop="keywords"><a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/photography/" rel="category tag">Photography</a></span>
+    <time class="post-date" datetime="July-30-2015T12:50" itemprop="dateCreated">July 30, 2015</time>
+    <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/share-your-tweets/" class="post-comments">Comments <span itemprop="commentCount">0</span></a>
+</div>                                <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/share-your-tweets/" itemprop="name">Share Your Tweets With Everybody!</a></h3>
+                                <div class="post-subtitle"></div>
+                                <div class="post-description" itemprop="description">
+                                    
+You can now bring your Twitter and your Blog closer together using Wordie. If you want to bring a bit more traffic to your latest tweet, or simply share it with your readers, you can now easily do that by creating a Twitter post and stylishly share your thoughts, or those of others.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+
+This is an example of an article subcaption
+Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare                                </div>
+                                <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/share-your-tweets/"><span>Continue Reading</span></a>
+                            </div>
+                        </article>
+                        <!--/ Post -->
+                    
+                        <!-- Post -->
+                        <article class="post post-large-image clearfix" itemscope="" itemtype="http://schema.org/Article">
+                            <div class="post-image">
+                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/create-an-external-link-with-a-link-post/">
+                                    <img width="1105" height="1115" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/shutterstock_39659308-1105x1115.jpg" class="attachment-1105x1115 size-1105x1115 wp-post-image" alt="" itemprop="image" srcset="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/shutterstock_39659308-1105x1115.jpg 1105w, https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/shutterstock_39659308-150x150.jpg 150w" sizes="(max-width: 1105px) 100vw, 1105px"><!--Image 952x810-->
+                                    <strong class="post-link"><i>Read Article</i></strong>
+                                </a>
+                            </div>
+
+                            <div class="post-content" itemprop="articleBody">
+                                <div class="post-meta ">
+    <span class="post-tags underlined" itemprop="keywords"><a href="https://www.bigbangthemes.net/Wordie_WP/category/archeology/" rel="category tag">Archeology</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a></span>
+    <time class="post-date" datetime="July-30-2015T11:45" itemprop="dateCreated">July 30, 2015</time>
+    <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/create-an-external-link-with-a-link-post/" class="post-comments">Comments <span itemprop="commentCount">0</span></a>
+</div>                                <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/create-an-external-link-with-a-link-post/" itemprop="name">Create An External Link With A Link Post</a></h3>
+                                <div class="post-subtitle"></div>
+                                <div class="post-description" itemprop="description">
+                                    
+You can opt for a post format that allows you to share a link with your audience. Regardless if you want your readers to view a link that's unrelated to your site, or simply want to drive some more traffic to your latest story, you can now do this in a lovely fashion.
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris egestas quam, ut aliquam massa nisl quis neque. Suspendisse in orci enim.
+This is an example of an article subcaption
+Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris                                </div>
+                                <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/create-an-external-link-with-a-link-post/"><span>Continue Reading</span></a>
+                            </div>
+                        </article>
+                        <!--/ Post -->
+                                    </div> <!-- //Postlist-bg -->
+                                <!-- PostList -->
+                    <div class="postlist postlist-background posts-slider">
+                        <div class="container-fluid">
+                            <div class="row">
+                                                                    <div class="col-md-6">
+                                        <!-- Post -->
+                                        <article class="post image-right clearfix" itemscope="" itemtype="http://schema.org/Article">
+                                            <div class="post-image">
+                                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/galleries-have-never-looked-better-4/">
+                                                    <img width="530" height="620" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/08/shutterstock_99664388-530x620.jpg" class="attachment-530x620 size-530x620 wp-post-image" alt="" itemprop="image"><!--Image 530x620-->
+                                                    <i class="fa fa-camera"></i>
+                                                </a>
+                                            </div>
+                                            <div class="post-meta">
+                                                <span class="post-tags underlined"><a href="https://www.bigbangthemes.net/Wordie_WP/category/archeology/" rel="category tag">Archeology</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a></span>
+                                            </div>
+                                            <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/galleries-have-never-looked-better-4/" itemprop="name">Galleries Have Never Looked Better</a></h3>
+                                            <div class="post-meta no-border">
+                                                <time class="post-date" datetime="July-30-2015T11:44" itemprop="dateCreated">July 30, 2015</time>
+                                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/galleries-have-never-looked-better-4/" class="post-comments">Comments <span itemprop="commentCount">0</span></a>
+                                            </div>
+                                            <div class="post-description" itemprop="description">
+                                                <p>Galleries have been around for ages in blogs, but Wordie comes forward to improve the functionality and add the possibility to display your images either in a slider or in a masonry style. On top of this, you also have the possibility of opening up the images in a fancybox by clicking on any of … </p>
+                                            </div>
+                                            <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/galleries-have-never-looked-better-4/"><span>Continue Reading</span></a>
+                                        </article>
+                                        <!--/ Post -->
+                                    </div>
+                                                                    <div class="col-md-6">
+                                        <!-- Post -->
+                                        <article class="post image-left clearfix" itemscope="" itemtype="http://schema.org/Article">
+                                            <div class="post-image">
+                                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/shoy-your-friends-places-youve-visited-like-never-before/">
+                                                    <img width="530" height="620" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/uploads/2015/07/women-fashion_00407464-530x620.jpg" class="attachment-530x620 size-530x620 wp-post-image" alt="" itemprop="image"><!--Image 530x620-->
+                                                    <i class="fa fa-camera"></i>
+                                                </a>
+                                            </div>
+                                            <div class="post-meta">
+                                                <span class="post-tags underlined"><a href="https://www.bigbangthemes.net/Wordie_WP/category/art/" rel="category tag">Art</a>, <a href="https://www.bigbangthemes.net/Wordie_WP/category/business/" rel="category tag">Business</a></span>
+                                            </div>
+                                            <h3 class="post-title"><a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/shoy-your-friends-places-youve-visited-like-never-before/" itemprop="name">Show Your Friends Places You’ve Visited Like Never Before</a></h3>
+                                            <div class="post-meta no-border">
+                                                <time class="post-date" datetime="July-30-2015T11:44" itemprop="dateCreated">July 30, 2015</time>
+                                                <a href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/shoy-your-friends-places-youve-visited-like-never-before/" class="post-comments">Comments <span itemprop="commentCount">0</span></a>
+                                            </div>
+                                            <div class="post-description" itemprop="description">
+                                                <p>With the help of Google’s amazing Street View, we’ve created a special post format that allows you to share places you’ve visited like never before. Share locations you’ve been impressed by and help your story become more interactive by actually showing your readers what you loved seeing. Class aptent taciti sociosqu ad litora torquent per … </p>
+                                            </div>
+                                            <a class="post-link" itemprop="url" href="https://www.bigbangthemes.net/Wordie_WP/2015/07/30/shoy-your-friends-places-youve-visited-like-never-before/"><span>Continue Reading</span></a>
+                                        </article>
+                                        <!--/ Post -->
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    	<!-- Pagination -->
+	<div class="pagination clearfix">
+				<a href="https://www.bigbangthemes.net/Wordie_WP/page/2/" class="pull-right">older posts<i class="fa fa-angle-right"></i></a>	</div>
+	<!--/ Pagination -->
+		                </div>
+            </div>
+        </div>
+    </section>
+    <!--/ section.Content -->
+</div>
+
+	
+			<!-- Widget Subscribe -->
+		<div class="widget-subscribe">
+			<h2 class="title">Get Exclusive Content</h2>
+			<div class="subtitle">Send us your email address and we’ll send you great content!</div>
+
+			<form action="#" class="subscribe-form">
+				<input type="email" name="subscribe-email" class="form-control" placeholder="enter your email address">
+				<input type="submit" name="subscribe-submit" value="Subscribe" class="btn btn-large">
+			</form>
+		</div>
+		<!--/ Widget Subscribe -->
+		<!-- Footer -->
+	<footer class="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+		<div class="text-center"><a href="#page-wrapper" class="back-to-top anchor fa fa-angle-up"></a></div>
+
+		<div class="container-fluid">
+			<div class="row">
+															<div class="col-sm-6 col-md-5 col-lg-offset-1 col-lg-4">
+							<div class="footer_widget_1 footer-description">            <div class="logo">
+                Wordie            </div>
+            <div class="description">
+                Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit nam nec tellus a odio tincidunt.             </div>
+        </div><div class="footer_widget_1 widget-social"><h3 class="title">Get Social</h3><ul>				<li>
+					<a class="fa fa-facebook" href="https://www.facebook.com/BigBangThemes "></a>
+				</li>
+						<li>
+					<a class="fa fa-twitter" href="https://twitter.com/big_bang_themes"></a>
+				</li>
+						<li>
+					<a class="fa fa-instagram" href="https://instagram.com/dogsofinstagram/ "></a>
+				</li>
+						<li>
+					<a class="fa fa-pinterest" href="https://www.pinterest.com/BIgBangThemes/ "></a>
+				</li>
+						<li>
+					<a class="fa fa-vimeo-square" href="http://vimeo.com/ "></a>
+				</li>
+						<li>
+					<a class="fa fa-google-plus" href="https://plus.google.com/ "></a>
+				</li>
+		</ul></div>						</div>
+					
+											<div class="col-sm-6 col-md-5 col-lg-offset-1 col-lg-4">
+							<div class="footer_widget_2 widget-instagram"><h3 class="title">Follo @Instagram</h3><br>
+<b>Notice</b>:  Undefined index: user in <b>/var/www/html/bigbangthemes.net/public/Wordie_WP/wp-content/themes/Wordie/bbt_framework/helpers/social.php</b> on line <b>40</b><br>
+<br>
+<b>Notice</b>:  Undefined index: user in <b>/var/www/html/bigbangthemes.net/public/Wordie_WP/wp-content/themes/Wordie/bbt_framework/helpers/social.php</b> on line <b>41</b><br>
+<br>
+<b>Notice</b>:  Undefined index: user in <b>/var/www/html/bigbangthemes.net/public/Wordie_WP/wp-content/themes/Wordie/bbt_framework/helpers/social.php</b> on line <b>42</b><br>
+<br>
+<b>Notice</b>:  Undefined index: user in <b>/var/www/html/bigbangthemes.net/public/Wordie_WP/wp-content/themes/Wordie/bbt_framework/helpers/social.php</b> on line <b>44</b><br>
+<br>
+<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/var/www/html/bigbangthemes.net/public/Wordie_WP/wp-content/themes/Wordie/bbt_framework/helpers/social.php</b> on line <b>44</b><br>
+			<ul><!--Images 290x230-->
+							</ul>
+		</div>						</div>
+												</div>
+		</div>
+							<div class="footer-bottom">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-sm-6 col-md-5 col-lg-4 col-lg-offset-1">
+							<div class="copyright">© 2017 <a style="text-decoration: underline;color: #8998a6;" href="http://themeforest.net/user/BigBangThemes">BigBangThemes</a>. All rights reserved.</div>
+						</div>
+
+						<div class="col-sm-6 col-md-5 col-md-offset-2 col-lg-4">
+							<div class="copyright text-right">Built with Love by the BigBangThemes Dev Team</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			</footer>
+	<!--/ Footer -->
+		<!-- <div class="purchase_link">
+		<a class="purchase_now" href="http://themeforest.net/item/wordie-bold-creative-wordpress-blog-theme/12621697?ref=BigBangThemes" onclick="ga('send', 'event', 'Purchase', 'click', 'WP Header');">$44 - Buy on Envato</a>
+	</div> -->
+	<div class="style_changer_holder">
+		<a id="changer_collapse" href="#"><i class="fa fa-cogs"></i></a>
+		<div id="hideable">
+			<h2>Style Changer</h2>
+			<div class="clear">
+			</div>
+			<div class="style_content">
+				<!-- Element color picker -->
+				<a id="primary" class="changer_button color" href="#">Color Light</a>
+				<div class="element-color-picker">
+					<span class="color-picker">
+						<input type="text" class="color-picker-input" value="#758591" data-toco-id="color-light"><div class="iris-picker iris-border" style="width: 200px; height: 159.5px;"><div class="iris-picker-inner"><div class="iris-square" style="width: 139.5px; height: 139.5px;"><a class="iris-square-value ui-draggable ui-draggable-handle" href="#" style="left: 15.345px; top: 68.355px;"><span class="iris-square-handle ui-slider-handle"></span></a><div class="iris-square-inner iris-square-horiz" style="background-image: -webkit-linear-gradient(left, rgb(128, 128, 128), rgb(0, 145, 255));"></div><div class="iris-square-inner iris-square-vert" style="background-image: -webkit-linear-gradient(top, rgb(255, 255, 255), rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 0) 50%, rgb(0, 0, 0));"></div></div><div class="iris-slider iris-strip" style="height: 139.5px; width: 21.6px; background-image: -webkit-linear-gradient(top, rgb(144, 116, 116), rgb(144, 130, 116), rgb(144, 144, 116), rgb(130, 144, 116), rgb(116, 144, 116), rgb(116, 144, 130), rgb(116, 144, 144), rgb(116, 130, 144), rgb(116, 116, 144), rgb(130, 116, 144), rgb(144, 116, 144), rgb(144, 116, 130), rgb(144, 116, 116));"><div class="iris-slider-offset ui-slider ui-slider-vertical ui-widget ui-widget-content ui-corner-all"><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="bottom: 42.7778%;"></span></div></div></div></div>
+					</span>
+				</div>
+				<!-- Element secondary color picker -->
+				<a id="secondary" class="changer_button color" href="#">Color Dark</a>
+				<div class="element-color-picker">
+					<span class="color-picker">
+						<input type="text" class="color-picker-input" value="#353d4a" data-toco-id="color-dark"><div class="iris-picker iris-border" style="width: 200px; height: 159.5px;"><div class="iris-picker-inner"><div class="iris-square" style="width: 139.5px; height: 139.5px;"><a class="iris-square-value ui-draggable ui-draggable-handle" href="#" style="left: 23.715px; top: 104.625px;"><span class="iris-square-handle ui-slider-handle"></span></a><div class="iris-square-inner iris-square-horiz" style="background-image: -webkit-linear-gradient(left, rgb(128, 128, 128), rgb(0, 98, 255));"></div><div class="iris-square-inner iris-square-vert" style="background-image: -webkit-linear-gradient(top, rgb(255, 255, 255), rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 0) 50%, rgb(0, 0, 0));"></div></div><div class="iris-slider iris-strip" style="height: 139.5px; width: 21.6px; background-image: -webkit-linear-gradient(top, rgb(75, 53, 53), rgb(75, 64, 53), rgb(75, 75, 53), rgb(64, 75, 53), rgb(53, 75, 53), rgb(53, 75, 64), rgb(53, 75, 75), rgb(53, 64, 75), rgb(53, 53, 75), rgb(64, 53, 75), rgb(75, 53, 75), rgb(75, 53, 64), rgb(75, 53, 53));"><div class="iris-slider-offset ui-slider ui-slider-vertical ui-widget ui-widget-content ui-corner-all"><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="bottom: 39.7222%;"></span></div></div></div></div>
+					</span>
+				</div>
+				<!-- Element secondary color picker -->
+				<a id="third" class="changer_button color" href="#">Link Color</a>
+				<div class="element-color-picker">
+					<span class="color-picker">
+						<input type="text" class="color-picker-input" value="#0270bb" data-toco-id="link-color"><div class="iris-picker iris-border" style="width: 200px; height: 159.5px;"><div class="iris-picker-inner"><div class="iris-square" style="width: 139.5px; height: 139.5px;"><a class="iris-square-value ui-draggable ui-draggable-handle" href="#" style="left: 136.71px; top: 87.885px;"><span class="iris-square-handle ui-slider-handle"></span></a><div class="iris-square-inner iris-square-horiz" style="background-image: -webkit-linear-gradient(left, rgb(128, 128, 128), rgb(0, 153, 255));"></div><div class="iris-square-inner iris-square-vert" style="background-image: -webkit-linear-gradient(top, rgb(255, 255, 255), rgba(255, 255, 255, 0) 50%, rgba(0, 0, 0, 0) 50%, rgb(0, 0, 0));"></div></div><div class="iris-slider iris-strip" style="height: 139.5px; width: 21.6px; background-image: -webkit-linear-gradient(top, rgb(187, 2, 2), rgb(187, 94, 2), rgb(187, 187, 2), rgb(94, 187, 2), rgb(2, 187, 2), rgb(2, 187, 94), rgb(2, 187, 187), rgb(2, 94, 187), rgb(2, 2, 187), rgb(94, 2, 187), rgb(187, 2, 187), rgb(187, 2, 94), rgb(187, 2, 2));"><div class="iris-slider-offset ui-slider ui-slider-vertical ui-widget ui-widget-content ui-corner-all"><span class="ui-slider-handle ui-state-default ui-corner-all" tabindex="0" style="bottom: 43.3333%;"></span></div></div></div></div>
+					</span>
+				</div>
+
+				<a class="changer_button color" href="#" onclick="window.location.reload()">Reset Colors</a>
+
+				<a class="changer_button color header-classic-switch" href="#">Header Classic</a>
+
+				<a class="changer_button color header-modern-switch" href="#">Header Modern</a>
+
+				<a class="changer_button color highlight" href="http://themeforest.net/item/wordie-bold-creative-wordpress-blog-theme/12621697?ref=BigBangThemes" onclick="ga('send', 'event', 'Purchase', 'click', 'WP Style Changer');">Purchase Now</a>
+				<!-- Pre loader toggle -->
+				<!-- <a id="toggle-preloader" class="changer_button" href="#">Toggle Preloader</a> -->
+				<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+			<!--<style type="text/css">
+			body{
+				overflow-y:visible !important; 
+			}
+			#preloader{
+				display: none;
+			}
+		</style>-->
+	<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/jquery/ui/widget.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/jquery/ui/core.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/jquery/ui/mouse.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/jquery/ui/slider.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/jquery/ui/draggable.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/plugins/bbt_ui_style_changer//iris.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/plugins/bbt_ui_style_changer//jquery.cookie.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/plugins/bbt_ui_style_changer//settings.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie-child/js/adwords.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/comment-reply.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/libs/jquery-ui.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/libs/bootstrap.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/libs/respond.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/jquery.powerful-placeholder.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/TweenMax.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/sly.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/jquery.swipebox.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/libs/modernizr.min.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/owl.carousel.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/js/bbt.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-content/themes/Wordie/bbt_framework/static/js/bbt-framework.js" defer="defer"></script>
+<script type="text/javascript" src="https://www.bigbangthemes.net/Wordie_WP/wp-includes/js/wp-embed.min.js" defer="defer"></script>
+</div>
+<!--/ Page Wrapper -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37394656-16', 'auto');
+  ga('send', 'pageview');
+  
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'Purchase', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;},
+     nonInteraction: true
+   });
+}
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2377aedf77","applicationID":"64869489","transactionName":"NFEEMBdTX0FZVUBRCw0bJwcRW15cF0JRVRQPVRIBSFBdXV8bWFEXFxkHCBFXQ1xZQlE=","queueTime":0,"applicationTime":1982,"atts":"GBYHRl9JTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body>
